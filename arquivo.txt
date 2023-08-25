@@ -1,0 +1,7 @@
+Um teste qualquer no arquivo.bash: save: command not found
+Comandos GitHub
+====================
+SSH:
+$ ssh-keygen -t rsa -f '/c/Users/Maurilio/.ssh/github' -C 'maurilio@ideianinja.com.br'
+$ eval "$(ssh-agent -s)"
+
