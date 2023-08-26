@@ -21,7 +21,7 @@ ssh-add /c/Users/Maurilio/.ssh/github
 git add .
 git commit -m 'Initial'
 git branch -M master
-$ git push -u origin master
+git push -u origin master
 
 
 
